@@ -1,0 +1,33 @@
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Documents\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.WindowsFormsApplication1.exe.config
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Documents\kanline\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF5.dll
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.WindowsFormsApplication1.exe.config
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projekt excel\Arduino_Excel\Arduino_Excel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
